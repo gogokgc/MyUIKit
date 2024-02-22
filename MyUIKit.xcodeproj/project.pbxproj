@@ -16,6 +16,7 @@
 		C03361D92B746971006FBC8C /* MyUIKitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03361D82B746971006FBC8C /* MyUIKitTests.swift */; };
 		C03361E32B746971006FBC8C /* MyUIKitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03361E22B746971006FBC8C /* MyUIKitUITests.swift */; };
 		C03361E52B746971006FBC8C /* MyUIKitUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03361E42B746971006FBC8C /* MyUIKitUITestsLaunchTests.swift */; };
+		C0E44E9A2B87092200405444 /* MyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C0E44E992B87092200405444 /* MyTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		C03361DE2B746971006FBC8C /* MyUIKitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyUIKitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C03361E22B746971006FBC8C /* MyUIKitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyUIKitUITests.swift; sourceTree = "<group>"; };
 		C03361E42B746971006FBC8C /* MyUIKitUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyUIKitUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C0E44E992B87092200405444 /* MyTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				C03361C12B746970006FBC8C /* AppDelegate.swift */,
 				C03361C32B746970006FBC8C /* SceneDelegate.swift */,
+				C0E44E992B87092200405444 /* MyTableViewController.swift */,
 				C03361C52B746970006FBC8C /* ViewController.swift */,
 				C03361C72B746970006FBC8C /* Main.storyboard */,
 				C03361CA2B746971006FBC8C /* Assets.xcassets */,
@@ -261,6 +264,7 @@
 				C03361C62B746970006FBC8C /* ViewController.swift in Sources */,
 				C03361C22B746970006FBC8C /* AppDelegate.swift in Sources */,
 				C03361C42B746970006FBC8C /* SceneDelegate.swift in Sources */,
+				C0E44E9A2B87092200405444 /* MyTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
